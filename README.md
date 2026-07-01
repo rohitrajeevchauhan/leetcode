@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
