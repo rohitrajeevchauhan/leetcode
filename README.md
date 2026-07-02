@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -88,9 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
