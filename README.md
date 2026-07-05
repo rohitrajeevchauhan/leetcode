@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
