@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
