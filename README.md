@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0289-game-of-life) |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -222,4 +225,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
