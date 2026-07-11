@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0197-rising-temperature) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0619-biggest-single-number) |
