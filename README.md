@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -223,9 +225,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Merge Sort
 |  |
