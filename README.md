@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
+| [1534-count-good-triplets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1534-count-good-triplets) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
