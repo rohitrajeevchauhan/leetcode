@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2762-continuous-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
