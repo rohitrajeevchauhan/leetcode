@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1952-three-divisors](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
@@ -312,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
