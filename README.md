@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
