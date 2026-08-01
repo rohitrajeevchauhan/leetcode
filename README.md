@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0289-game-of-life) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
