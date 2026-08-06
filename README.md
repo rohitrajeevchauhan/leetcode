@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 | [1534-count-good-triplets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1534-count-good-triplets) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
+| [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
