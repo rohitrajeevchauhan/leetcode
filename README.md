@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
