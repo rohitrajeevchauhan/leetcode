@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Design
@@ -356,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
