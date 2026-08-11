@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -372,12 +373,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -389,13 +392,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
