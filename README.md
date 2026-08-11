@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Depth-First Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2762-continuous-subarrays](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2762-continuous-subarrays) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -367,9 +369,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
