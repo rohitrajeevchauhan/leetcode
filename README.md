@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0338-counting-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
