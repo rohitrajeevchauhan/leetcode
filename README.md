@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 | [1952-three-divisors](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2614-prime-in-diagonal) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -422,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0214-shortest-palindrome) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
