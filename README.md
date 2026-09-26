@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
 | [1534-count-good-triplets](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1534-count-good-triplets) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
