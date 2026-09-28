@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
