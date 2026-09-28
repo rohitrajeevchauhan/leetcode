@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0289-game-of-life) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0338-counting-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/rohitrajeevchauhan/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
