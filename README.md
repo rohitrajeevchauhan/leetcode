@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0560-subarray-sum-equals-k) |
