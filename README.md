@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0198-house-robber) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0068-text-justification) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
