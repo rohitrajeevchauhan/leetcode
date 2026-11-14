@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0500-keyboard-row) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/rohitrajeevchauhan/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
+| [0500-keyboard-row](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0706-design-hashmap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
