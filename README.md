@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
+| [1105-filling-bookcase-shelves](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1696-jump-game-vi](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1105-filling-bookcase-shelves](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1472-design-browser-history) |
