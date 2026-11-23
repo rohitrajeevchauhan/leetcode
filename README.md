@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0412-fizz-buzz](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1025-divisor-game) |
 | [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1872-stone-game-viii](https://github.com/rohitrajeevchauhan/leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
